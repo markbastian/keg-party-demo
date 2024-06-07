@@ -12,7 +12,7 @@
 ;;
 ;; KEG_PARTY_USERNAME=username
 ;; KEG_PARTY_PASSWORD=password
-;; KEG_PARTY_HOST=https://keg-party.loca.lt
+;; KEG_PARTY_HOST=https://keg-party1.loca.lt
 (ns user
   (:require
     [keg-party.clients.rest-client :as kprc]))
